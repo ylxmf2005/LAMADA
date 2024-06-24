@@ -1,4 +1,5 @@
 private/
+important/
 .DS_Store
 **/test.py
 *.docx
@@ -9,7 +10,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 DSPy_QuizGen_Cache/
-
+**/local_cache/
 # C extensions
 *.so
 
